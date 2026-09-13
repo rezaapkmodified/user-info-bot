@@ -1,4 +1,4 @@
-pyTelegramBotAPI
-pytz
-qrcode[pil]
-requests
+pyTelegramBotAPI==4.14.0
+pytz==2023.3
+qrcode[pil]==7.4.2
+requests==2.31.0
