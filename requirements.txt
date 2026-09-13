@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+pytz
+qrcode[pil]
+requests
